@@ -6,3 +6,4 @@ https://becomeapro.pl/
 
 from digitalfilters.sample import Sample
 from digitalfilters.firfilter import FIRFilter
+from digitalfilters.alphabetafilter import AlphaBetaFilter
